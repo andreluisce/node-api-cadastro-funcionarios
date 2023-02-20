@@ -1,0 +1,22 @@
+{
+  "name": "api-cadastro-funcionarios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "dev": "node ./src/backend/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinixavier/node-api-cadastro-funcionarios.git"
+  },
+  "author": "Vinicius Xavier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinixavier/node-api-cadastro-funcionarios/issues"
+  },
+  "homepage": "https://github.com/vinixavier/node-api-cadastro-funcionarios#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
